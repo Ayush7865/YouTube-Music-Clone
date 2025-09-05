@@ -30,13 +30,9 @@ Live Demo: [you-tube-music-clone.vercel.app](https://you-tube-music-clone.vercel
 
 ## Project Structure
 
-.
 ├── index.html # Main entry point
-.
 ├── ym.css # Styling and layout
-.
 ├── ym.js # Interactivity 
-.
 └── ytMusic/ # Icons, images, and other static files
 
 ---
